@@ -1,0 +1,73 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编译中间文件
+*.so
+*.o
+*.out
+*.a
+*.dll
+*.dylib
+*.exe
+
+# 虚拟环境
+venv/
+.env/
+.venv/
+env/
+
+# PyCharm 项目配置
+.idea/
+
+# VSCode（如果你也用的话）
+.vscode/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# 日志、调试输出
+*.log
+
+# 数据文件（按需添加）
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.tar
+*.pbz2
+*.txt
+*.out
+*.png
+
+
+# 模型文件
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# 图片或输出图像（按需添加）
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Qt designer 临时文件（如果有）
+*.autosave
+
+# 压缩包、临时包
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# 本地运行生成的缓存或配置
+.DS_Store
+Thumbs.db
+desktop.ini
