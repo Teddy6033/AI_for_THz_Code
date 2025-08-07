@@ -18,5 +18,5 @@ The AI models in this project were trained locally using **Python 3.9**, the ope
 ##  Data Access
 
 * Due to the large size of the `data_space` folder, it is not included in the GitHub repository.
-* The `data_space` can be accessed via [Google Drive Download Link](https://workspace.google.com/intl/zh-CN/products/drive/).
+* The `data_space` can be accessed via [Google Drive Download Link](https://drive.google.com/file/d/10HxPnLU55VS_4dcNoTHQ1NRpp_2NSZ3a/view?usp=sharing).
 
