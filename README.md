@@ -1,5 +1,5 @@
 # AI for Terahertz Metasurface Sensing
-This is the code repository accompanying the paper "DeepSeek-Motivated AI Physics Exploration: Mining Accidental BICs in Metasurfaces for Terahertz Sensing".
+This is the code repository accompanying the paper "Decoding Accidental BIC Metasensing by Hierarchical Inference AI Framework".
 
 We summarize the proposed framework flowchart of AI-driven hierarchical physics inference in the diagram below. It enables profound insight into accidental bound states in the continuum (BICs) in metasurfaces, facilitating the design of advanced terahertz (THz) sensing functionalities by accidental q-BICs. The framework mainly includes three parts: (1) How Do Accidental BICs Happen? (2) Molecular Identification; (3) Quantitative Detection. 
 
