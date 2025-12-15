@@ -37,7 +37,7 @@ with bz2.BZ2File(r'..\data_space\dataset_pbz2\unloaded_dataset_val_for_science.p
     X2 = np.array(X2)
     X3 = np.array(X3)
     X4 = np.array(X4)
-    y_test = np.array(F)
+    y_test = np.array(W)
     X_test = np.column_stack((X1, X2, X3, X4))
 
 # 从压缩文件中读取五个列表
@@ -47,7 +47,7 @@ with bz2.BZ2File(r'..\data_space\dataset_pbz2\unloaded_dataset_train_for_science
     X2 = np.array(X2)
     X3 = np.array(X3)
     X4 = np.array(X4)
-    y_train = np.array(F)
+    y_train = np.array(W)
     X_train = np.column_stack((X1, X2, X3, X4))
 
 # 将数据转换为 PyTorch 张量
