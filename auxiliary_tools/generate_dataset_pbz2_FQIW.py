@@ -29,14 +29,14 @@ for file_id, file_name in enumerate(file_list):
             D2.append(d.structure_nor[1])
             Gx.append(d.structure_nor[2])
             Gy.append(d.structure_nor[3])
-            F.append(d.F)
+            F.append((d.F-0.8)*2)
             Q.append(d.Q/200)
             I.append(d.I)
-            W.append(d.W * 2)
+            W.append(d.W * 20)
         else:
-            print("有叛徒")
+            print("find unqualified sample")
     else:
-        print("有叛徒")
+        print("find unqualified sample")
 
 # 将五个列表打包保存到压缩文件中
 with bz2.BZ2File(r'../data_space/dataset_pbz2/unloaded_dataset_train_for_science_test.pbz2', 'wb') as f:
@@ -63,14 +63,14 @@ for file_id, file_name in enumerate(file_list):
             D2.append(d.structure_nor[1])
             Gx.append(d.structure_nor[2])
             Gy.append(d.structure_nor[3])
-            F.append(d.F)
+            F.append((d.F-0.8)*2)
             Q.append(d.Q/200)
             I.append(d.I)
-            W.append(d.W * 2)
+            W.append(d.W * 20)
         else:
-            print("有叛徒")
+            print("find unqualified sample")
     else:
-        print("有叛徒")
+        print("find unqualified sample")
 
 # 将五个列表打包保存到压缩文件中
 with bz2.BZ2File(r'../data_space/dataset_pbz2/unloaded_dataset_val_for_science_test.pbz2', 'wb') as f:
