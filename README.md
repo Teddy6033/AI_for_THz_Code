@@ -1,7 +1,7 @@
 # AI for Terahertz Metasurface Sensing
-This is the code repository accompanying the paper "Ultrasensitive Trace Terahertz Sensing via Physics-Guided Hierarchical Machine Learning of Accidental BIC Metasurfaces".
+This repository accompanies the paper "Ultrasensitive Trace Terahertz Sensing via Physics-Guided Hierarchical Machine Learning of Accidental BIC Metasurfaces".
 
-We summarize the proposed framework flowchart of Physics-Guided Hierarchical Machine Learning in the diagram below. It enables profound insight into accidental bound states in the continuum (BICs) in metasurfaces, facilitating the design of advanced terahertz (THz) sensing functionalities by accidental q-BICs. The framework mainly includes three parts: (1) How Do Accidental BICs Happen? (2) Molecular Identification; (3) Quantitative Detection. 
+The overall framework of the proposed physics-guided hierarchical machine learning approach is illustrated in the figure below. It enables profound insight into accidental bound states in the continuum (BICs) in metasurfaces, facilitating the design of advanced terahertz (THz) sensing functionalities by accidental q-BICs. The framework mainly includes three parts: (1) How Do Accidental BICs Happen? (2) Molecular Identification; (3) Quantitative Detection. 
 
 <p align="center">
   <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/17c2c5e8-29e2-425c-803e-2cc7ad109118" />
