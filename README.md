@@ -1,10 +1,10 @@
-# AI for Terahertz Metasurface Sensing
+<img width="1401" height="1125" alt="image" src="https://github.com/user-attachments/assets/8b3d96f5-c80c-48db-9904-2058cf70b1fc" /># AI for Terahertz Metasurface Sensing
 This is the code repository accompanying the paper "Ultrasensitive Trace Terahertz Sensing via Physics-Guided Hierarchical Machine Learning of Accidental BIC Metasurfaces".
 
-We summarize the proposed framework flowchart of AI-driven hierarchical physics inference in the diagram below. It enables profound insight into accidental bound states in the continuum (BICs) in metasurfaces, facilitating the design of advanced terahertz (THz) sensing functionalities by accidental q-BICs. The framework mainly includes three parts: (1) How Do Accidental BICs Happen? (2) Molecular Identification; (3) Quantitative Detection. 
+We summarize the proposed framework flowchart of Physics-Guided Hierarchical Machine Learning in the diagram below. It enables profound insight into accidental bound states in the continuum (BICs) in metasurfaces, facilitating the design of advanced terahertz (THz) sensing functionalities by accidental q-BICs. The framework mainly includes three parts: (1) How Do Accidental BICs Happen? (2) Molecular Identification; (3) Quantitative Detection. 
 
 <p align="center">
-  <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/37165f83-544b-4574-a08d-7e17959f0c49" />
+  <img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/17c2c5e8-29e2-425c-803e-2cc7ad109118" />
 </p>
 
 * For Part (1), the core code is located in the folders `physical_mining_feature_prediction` and `physical_mining_shap_analysis`.
